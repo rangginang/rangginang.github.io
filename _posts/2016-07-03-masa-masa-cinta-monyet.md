@@ -33,4 +33,4 @@ categories: kisah
 
 ![senyum-senyum](http://rangginang.github.io/static/img/Osis/senyum-senyum.jpg)
 
-![tutup-mata](http://rangginang.github.iostatic/img/Osis/tutup-mata.jpg)
+![tutup-mata](http://rangginang.github.io/static/img/Osis/tutup-mata.jpg)
