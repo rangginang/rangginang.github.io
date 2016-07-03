@@ -15,7 +15,7 @@ categories: kisah
 
 ![foto-bareng-kresek](http://rangginang.github.io/static/img/Pramuka/foto-bareng-kresek.jpg)
 
-![foto-bareng-pohon](http://rangginang.github.iorengginang.github.io/static/img/Pramuka/foto-bareng-pohon.jpg)
+![foto-bareng-pohon](http://rangginang.github.io/static/img/Pramuka/foto-bareng-pohon.jpg)
 
 ![foto-bareng-ruangan](http://rangginang.github.io/static/img/Pramuka/foto-bareng-ruangan.jpg)
 
