@@ -1,8 +1,8 @@
 title: Alumni SMPN 1 Pace
 description: Rang-rangginang udah cukup.
 author: Tim Rengginang
-logo: http://rangginang.github.io/static/img/avatar.png
-github: https://github.com/rengginang
+logo: https://rangginang.github.io/static/img/avatar.png
+github: https://github.com/rangginang
 about: Menghabiskan jajanan lebaran
 disqus_shortname: 
 google_analytics: 
@@ -33,7 +33,7 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://rangginang.github.io"
+url: "https://rangginang.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
