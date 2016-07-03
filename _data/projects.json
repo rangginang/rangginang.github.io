@@ -1,0 +1,289 @@
+[
+	{
+		"name": "Aan Kurniawan Yahya",
+		"image": "aan.jpg",
+		"moto": "Masa lalu seperti bayangan yg tidak bsa qt tinggalkan",
+		"date": "8 Maret 1990",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Puji Rahayu",
+		"image": "prahayu.jpg",
+		"moto": "Bersemangatlah untuk tetap maju",
+		"date": "15 September 1989",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Moh. Irvan Effendi",
+		"image": "irvan.jpg",
+		"moto": "Raihlah cita-citamu setinggi mungkin",
+		"date": "2 Juni 1990",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Lilik Nurwati",
+		"image": "lilik.jpg",
+		"moto": "Jalani Hidup ...? Enjoy Aja!",
+		"date": "12 September 1989",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Maya Rosalina",
+		"image": "may.jpg",
+		"moto": "Awalilah segalanya dengan Basmallah dan akhirillah dengan Hamdallah",
+		"date": "11 Februari 1990",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Ahmad Fahrurroji",
+		"image": "fahrurroji.jpg",
+		"moto": "Selama bumi berputar cita-citaku tidak akan pudar",
+		"date": "2 Januari 1990",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Muhammad Hanafi",
+		"image": "hanafi.jpg",
+		"moto": "waktu tidak dapat diputar kembali, maka gunakanlah dengan sebaik-baiknya.",
+		"date": "16 Juli 1990",
+		"tags": ["3B"]
+	},
+	{
+		"name": "Yohana Aisyah Rachmy",
+		"image": "wana.jpg",
+		"moto": "Vini Vidi Vici",
+		"date": "3 Desember 1989",
+		"tags": ["3B"]
+	},
+	{
+		"name": "Pratama Lutfan H.",
+		"image": "lutfan.jpg",
+		"moto": "Beraki-rakit kita kehulu, berenang-renang ketepian.",
+		"date": "23 Februari 1990",
+		"tags": ["3B"]
+	},
+	{
+		"name": "Bekti H. S.",
+		"image": "bekti.jpg",
+		"moto": "urip mung sedelo mengko ojo neko-neko",
+		"date": "23 Oktober 1990",
+		"tags": ["3B"]
+	},
+	{
+		"name": "Puji Astutik",
+		"image": "pujias.jpg",
+		"moto": "Sucikan hati dan fikiran guna meraih masa depan",
+		"date": "26 Desember 1989",
+		"tags": ["3B"]
+	},
+	{
+		"name": "Nurul Binuri",
+		"image": "nurulbin.jpg",
+		"moto": "Kita harus memanfaatkan waktu yang ada dengan sebaik-baiknya.",
+		"date": "2 juni 1990",
+		"tags": ["3B"]
+	},
+	{
+		"name": "Linda Andriani",
+		"image": "lindaan.jpg",
+		"moto": "Berusaha dalam mencapai cita-cita karena keberhasilan ada pada dirimu.",
+		"date": "6 November 1990",
+		"tags": ["3B"]
+	},
+	{
+		"name": "M. Choirul A.",
+		"image": "choirul.jpg",
+		"moto": "Sepiro gedening sengsoro yen tinompo amung dadi coba.",
+		"date": "26 November 1989",
+		"tags": ["3B"]
+	},
+	{
+		"name": "Wahyu Hardiyanti",
+		"image": "wahyuhar.jpg",
+		"moto": "Dengan belajar orang akan menjadi pintar.",
+		"date": "22 Maret 1990",
+		"tags": ["3B"]
+	},
+	{
+		"name": "Suprianto",
+		"image": "suprianto.jpg",
+		"moto": "Bacalah buku maka anda akan menuai gagasan.",
+		"date": "18 Januari 1990",
+		"tags": ["3C"]
+	},
+	{
+		"name": "Ahmad Nur Kholis",
+		"image": "kholis.jpg",
+		"moto": "Rajin pangkal pandai.",
+		"date": "11 Oktober 1990",
+		"tags": ["3C"]
+	},
+	{
+		"name": "Mohamad Rohman",
+		"image": "rohman.jpg",
+		"moto": "SMPN Pace selalu terdepan.",
+		"date": "9 Desember 1989",
+		"tags": ["3C"]
+	},
+	{
+		"name": "Subur Wibowo",
+		"image": "subur.jpg",
+		"moto": "Semua kegiatan harus disertai do'a.",
+		"date": "5 Pebruari 1990",
+		"tags": ["3C"]
+	},
+	{
+		"name": "Fitri Anita",
+		"image": "fitrian.jpg",
+		"moto": "Berusaha adalah kunci sukses",
+		"date": "1 Mei 1990",
+		"tags": ["3C"]
+	},
+	{
+		"name": "M. Saiful Mukharom",
+		"image": "saiful.jpg",
+		"moto": "Carilah ilmu setinggi mungkin sesuai misi dan visimu Good Luck",
+		"date": "06 Januari 1990",
+		"tags": ["3D"]
+	},
+	{
+		"name": "Daim Wiranata",
+		"image": "daim.jpg",
+		"moto": "Carilah ilmu di SMPN 1 Pace, sesungguhnya SMPN 1 Pace itu memang juoooost tenan!",
+		"date": "17 Agustus 1990",
+		"tags": ["3D"]
+	},
+	{
+		"name": "Maritha Yulinda",
+		"image": "linda.jpg",
+		"moto": "bersemangatlah dalam suatu pekerjaan apapun",
+		"date": "16 Maret 1990",
+		"tags": ["3D"]
+	},
+	{
+		"name": "Aziz Surya Irawan",
+		"image": "aziz.jpg",
+		"moto": "maju Terus Pantang mundur demi cita-cita",
+		"date": "23 Agustus 1990",
+		"tags": ["3D"]
+	},
+	{
+		"name": "Susanti Anggraini",
+		"image": "santi.jpg",
+		"moto": "Belajar adalah kebutuhan pokokmu",
+		"date": "17 Juni 1990",
+		"tags": ["3D"]
+	},
+	{
+		"name": "Woto Utomo",
+		"image": "woto.jpg",
+		"moto": "Semoga hari esok lebih baik dari hari ini",
+		"date": "19 Juli 1990",
+		"tags": ["3D"]
+	},
+	{
+		"name": "Andika Catur K",
+		"image": "iwan.jpg",
+		"moto": "Tantangan tersulit apapun hadipilah dengan tegas kecuali ketemu setan he...he...he...",
+		"date": "11 Juli 1990",
+		"tags": ["3E"]
+	},
+	{
+		"name": "Ahmad Soleh",
+		"image": "sholeh.jpg",
+		"moto": "Ilmu adalah lampu penerang dalam kegelapan dunia",
+		"date": "10 November 1989",
+		"tags": ["3E"]
+	},
+	{
+		"name": "Fahrul Ikhwan A.",
+		"image": "fahrul.jpg",
+		"moto": "Bukalah buku setiap waktu dan jangan lupa shalat 5 waktu.",
+		"date": "1 Pebruari 1990",
+		"tags": ["3E"]
+	},
+	{
+		"name": "Lilis S.",
+		"image": "lilis.jpg",
+		"moto": "Ilmu yang tinggi tiada tiada berarti tanpa budi pekerti yang tinggi pula.",
+		"date": "10 April 1990",
+		"tags": ["3E"]
+	},
+	{
+		"name": "Muhimmatus Sa'adah",
+		"image": "aad.jpg",
+		"moto": "Intropeksi dirimu sebelum mengintropeksi orang lain",
+		"date": "31 Januari 1989",
+		"tags": ["3F"]
+	},
+	{
+		"name": "Nunung sari Arwandi",
+		"image": "inung.jpg",
+		"moto": "Kegagalan adalah keberhasilan yang tertunfda",
+		"date": "8 Pebruari 1990",
+		"tags": ["3F"]
+	},
+	{
+		"name": "Tyar Wahyu Pambudi",
+		"image": "tiar.jpg",
+		"moto": "Pengalaman adalah murid yang terlatih",
+		"date": "1 April 1990",
+		"tags": ["3F"]
+	},
+	{
+		"name": "Agus Supriyanto",
+		"image": "antok.jpg",
+		"moto": "Tuntutlah ilmu setinggi mungkin",
+		"date": "16 Agustus 1990",
+		"tags": ["3F"]
+	},
+	{
+		"name": "Rocky Wijaya",
+		"image": "rocky.jpg",
+		"moto": "Kata ustadz Sanusi, Sholatlah kamu sebelum disholatkan.",
+		"date": "3 Maret 1990",
+		"tags": ["3F"]
+	},
+	{
+		"name": "Very Ratih Septiyaning Utami",
+		"image": "ratih.jpg",
+		"moto": "Hidup adalah suatu perjuangan",
+		"date": "28 Agustus 1989",
+		"tags": ["3F"]
+	},
+	{
+		"name": "Prihatiningtiyas M.M.",
+		"image": "tyas.jpg",
+		"moto": "Buku itu cendela dunia",
+		"date": "25 Juli 1989",
+		"tags": ["3H"]
+	},
+	{
+		"name": "Fajar Tulus kurniawan",
+		"image": "fajar.jpg",
+		"moto": "Rajin pangkal pandai",
+		"date": "28 Agustus 1990",
+		"tags": ["3H"]
+	},
+	{
+		"name": "Rosalina Ainun Niha",
+		"image": "ainun.jpg",
+		"moto": "Ingin sukses, tak selalu harus jadi yang terbaik",
+		"date": "20 Agustus 1990",
+		"tags": ["3H"]
+	},
+	{
+		"name": "Frendik Dian Frahma",
+		"image": "rendik.jpg",
+		"moto": "Sukseskan wajib belajar 9 tahun",
+		"date": "10 April 1990",
+		"tags": ["3I"]
+	},
+	{
+		"name": "Astomo",
+		"image": "astomo.jpg",
+		"moto": "Tiada hari tanpa belajar",
+		"date": "12 Mei 1989",
+		"tags": ["3I"]
+	},
+]

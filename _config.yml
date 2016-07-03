@@ -1,0 +1,44 @@
+title: Alumni SMPN 1 Pace
+description: Rang-rangginang udah cukup.
+author: Tim Rengginang
+logo: http://rangginang.github.io/static/img/avatar.png
+github: https://github.com/rengginang
+about: Menghabiskan jajanan lebaran
+disqus_shortname: 
+google_analytics: 
+urls:
+    - text: Home
+      url: /
+      icon: fa-home
+      layout: post
+    - text: About
+      url: /about/
+      icon: fa-graduation-cap
+    - text: Album
+      url: /projects/
+      icon: fa-desktop
+    - text: XML Feed
+      url: /feed.xml
+      icon: fa-feed
+      
+social:
+    - icon: fa-facebook
+      link: 'https://www.facebook.com/groups/SMP1PACE/'
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+url: "http://rangginang.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
