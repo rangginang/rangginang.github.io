@@ -7,30 +7,30 @@ categories: kisah
 
 ## Maafkanlah aku yang dulu
 
-![berdiri-melamun](http://rengginang.github.io/static/img/Osis/berdiri-melamun.jpg)
+![berdiri-melamun](http://rangginang.github.io/static/img/Osis/berdiri-melamun.jpg)
 
-![berdiri-senyum](http://rengginang.github.io/static/img/Osis/berdiri-senyum.jpg)
+![berdiri-senyum](http://rangginang.github.io/static/img/Osis/berdiri-senyum.jpg)
 
-![berdiri-termenung](http://rengginang.github.io/static/img/Osis/berdiri-termenung.jpg)
+![berdiri-termenung](http://rangginang.github.io/static/img/Osis/berdiri-termenung.jpg)
 
-![dikerjain-senior](http://rengginang.github.io/static/img/Osis/dikerjain-senior.jpg)
+![dikerjain-senior](http://rangginang.github.io/static/img/Osis/dikerjain-senior.jpg)
 
-![duduk-duduk](http://rengginang.github.io/static/img/Osis/duduk-duduk.jpg)
+![duduk-duduk](http://rangginang.github.io/static/img/Osis/duduk-duduk.jpg)
 
-![duduk-merenung](http://rengginang.github.io/static/img/Osis/duduk-merenung.jpg)
+![duduk-merenung](http://rangginang.github.io/static/img/Osis/duduk-merenung.jpg)
 
-![ketawa-rame](http://rengginang.github.io/static/img/Osis/ketawa-rame.jpg)
+![ketawa-rame](http://rangginang.github.io/static/img/Osis/ketawa-rame.jpg)
 
-![ngerjain-gj](http://rengginang.github.io/static/img/Osis/ngerjain-gj.jpg)
+![ngerjain-gj](http://rangginang.github.io/static/img/Osis/ngerjain-gj.jpg)
 
-![pramuka-rame](http://rengginang.github.io/static/img/Osis/pramuka-rame.jpg)
+![pramuka-rame](http://rangginang.github.io/static/img/Osis/pramuka-rame.jpg)
 
-![rame-rame](http://rengginang.github.io/static/img/Osis/rame-rame.jpg)
+![rame-rame](http://rangginang.github.io/static/img/Osis/rame-rame.jpg)
 
-![sandar-pohon](http://rengginang.github.io/static/img/Osis/sandar-pohon.jpg)
+![sandar-pohon](http://rangginang.github.io/static/img/Osis/sandar-pohon.jpg)
 
-![selow](http://rengginang.github.io/static/img/Osis/selow.jpg)
+![selow](http://rangginang.github.io/static/img/Osis/selow.jpg)
 
-![senyum-senyum](http://rengginang.github.io/static/img/Osis/senyum-senyum.jpg)
+![senyum-senyum](http://rangginang.github.io/static/img/Osis/senyum-senyum.jpg)
 
-![tutup-mata](http://rengginang.github.iostatic/img/Osis/tutup-mata.jpg)
+![tutup-mata](http://rangginang.github.iostatic/img/Osis/tutup-mata.jpg)
