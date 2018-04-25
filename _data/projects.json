@@ -42,6 +42,55 @@
 		"tags": ["3A"]
 	},
 	{
+		"name": "anneke Wulandari",
+		"image": "anneke.jpg",
+		"moto": "Tetaplah berusaha selama cita-citamu belum tercapai",
+		"date": "1 Mei 1990",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Hendra Dwi Putra F.",
+		"image": "hendra.jpg",
+		"moto": "-",
+		"date": "6 September 1989",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Prathiwi Dhita Ayu N. T.",
+		"image": "prathiwi.jpg",
+		"moto": "Jangan pernah sia-siakan kesempatan, karena kesempatan tidak datang dua kali. percayalah pada diri kita sendiri",
+		"date": "24 Desember 1989",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Anas Sifaudin",
+		"image": "anass.jpg",
+		"moto": "Mencapai cita-cita setinggi langit",
+		"date": "9 September 1989",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Moch Mujaidin",
+		"image": "mujaidin.jpg",
+		"moto": "Vini, Vidi, Vici",
+		"date": "1 Desember 1989",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Mohammad Toyib",
+		"image": "toyib.jpg",
+		"moto": "Walaupun Gagal tetapi tidak pernah putus asa",
+		"date": "1 Desember 1989",
+		"tags": ["3A"]
+	},
+	{
+		"name": "Pipit Hudatul Khusna",
+		"image": "pipit.jpg",
+		"moto": "Bersemangat",
+		"date": "16 April 1989",
+		"tags": ["3A"]
+	},
+	{
 		"name": "Muhammad Hanafi",
 		"image": "hanafi.jpg",
 		"moto": "waktu tidak dapat diputar kembali, maka gunakanlah dengan sebaik-baiknya.",
